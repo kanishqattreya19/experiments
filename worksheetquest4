@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div p {
+  color: red;
+}
+</style>
+</head>
+<body>
+
+<div>
+  <p>This will be red (inside div)</p>
+</div>
+
+<p>This will NOT be red (outside div)</p>
+
+</body>
+</html>
